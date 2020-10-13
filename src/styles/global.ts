@@ -20,13 +20,12 @@ export default createGlobalStyle`
 
     body {
       -webkit-font-smoothing: antialiased !important;
-      background-color: ${colors.secondary};
+      background-color: ${colors.gray};
+      color: ${colors.white};
     }
 
-    body, input, button {
-      color: ${colors.white};
-      font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
-      font-size: 16px;
+    body, input, button, textarea {
+      font: 600 18px 'Nunito', sans-serif;
     }
 
     h1, h2, h3, h4, h5, h6, strong {

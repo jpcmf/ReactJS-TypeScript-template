@@ -3,7 +3,7 @@ export default {
   danger: '#de3b3b',
   dark: '#444',
   darkGrey: '#999',
-  grey: '#ddd',
+  gray: '#EBF2F5',
   info: '#4d85ee',
   lightGrey: '#eee',
   primary: '#ee4d64',
@@ -11,4 +11,8 @@ export default {
   success: '#31DB7D',
   white: '#fff',
   brand: '#1a90e8',
+  yellow: '#FFD666',
+  blue: '#96FEFF',
+  mediumBlue: '#15C3D6',
+  marrom: '#8D734B',
 };
